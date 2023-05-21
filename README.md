@@ -11,7 +11,7 @@ Real-time processing: The code is designed to process live video streams in real
 To set up the project on your local machine, follow these steps:
 Clone the repository to your local machine using the following command:
 
-git clone https://github.com/your-username/facial-recognition.git
+git clone https://github.com/tahreem007/facial-recognition.git
 
 Navigate to the project directory:
 
